@@ -80,24 +80,23 @@ print("Lenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Dataset:
-![images](./images/data.png)
+![data](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/3266a858-7026-457d-b074-8857923d7a07)
 ### X Values:
-![images](./images/x_values.png)
+![x_values](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/aade21d7-c701-4b77-bc89-2c2b3525c10a)
 ### Y Values:
-![images](./images/y_values.png)
+![y_values](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/d0814948-069a-4ef2-a673-f17b8d890bd3)
 ### Null Values:
-![images](./images/null_values.png)
+![null_values](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/6d015d44-ee3a-45c1-ba58-9eef5c14b64b)
 ### Duplicated Values:
-![images](./images/duplicated_values.png)
+![duplicated_values](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/45952918-fb79-43a1-bb18-da592508ace2)
 ### Description:
-![images](./images/describe.png)
+![describe](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/49a40544-613f-42c9-8f30-21247564bfa1)
 ### Normalized Dataset:
-![](./images/normalized.png)
+![normalized](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/b52b7460-7491-462f-9e3e-153379875151)
 ### Training Data:
-![](./images/training%20.png)
+![training ](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/92024909-59f8-45b1-b69b-03e5eed238af)
 ### Testing Data:
-![](./images/test.png)
-
+![test](https://github.com/Naveensrinivasan07/Ex-1-NN/assets/119475891/17c1c314-f771-4787-8743-320698017e55)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
